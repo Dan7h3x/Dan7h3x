@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm who i am</h1>
 <h3 align="center">A charmed fuzzy math lover state: Phd feel like: 17 yrs old (28)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan7h3x&label=Profile%20views&color=0e75b6&style=flat" alt="dan7h3x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan7h3x&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="dan7h3x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan7h3x" alt="dan7h3x" /></a> </p>
 
