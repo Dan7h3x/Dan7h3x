@@ -19,3 +19,4 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+[<img src="https://api.gitsponsors.com/api/badge/img?id=642040290" height="30">](https://api.gitsponsors.com/api/badge/link?p=cvKrwc8KulGJS5IAUf1M+5miyTaMnOBW5CZaCZr5hIVSJVqcAcNW3txv6tKn5ZmGCaVvPd2Up3mMR+4Eh0J/Zw==)
