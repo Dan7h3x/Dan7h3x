@@ -2,6 +2,7 @@
 <h3 align="center">A charmed fuzzy math lover state: Phd feel like: 17 yrs old (28)</h3>
 
 <!-- Copy-paste in your Readme.md file -->
+![Dan7h3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan7h3x&show_icons=true&theme=transparent)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=123359596" target="_blank" style="display: block" align="center">
   <picture>
