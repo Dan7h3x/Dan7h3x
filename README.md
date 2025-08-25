@@ -3,7 +3,7 @@
 
 <!-- Copy-paste in your Readme.md file -->
 ![Dan7h3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan7h3x&show_icons=true&theme=transparent)
-
+![Codewars](https://www.codewars.com/users/Dan7h3x/badges/large)
 
 <!-- Copy-paste in your Readme.md file -->
 
