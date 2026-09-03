@@ -1,8 +1,5 @@
-<h3 align="center">A charmed fuzzy math lover state: Phd feel like: 17 yrs old (28)</h3>
+<h3 align="center">A charmed fuzzy Math/FOSS lover's ~</h3>
 
-
- ![STATS (THOPHIES)](https://github-profile-trophy.vercel.app/?username=Dan7h3x&column=5&margin-w=5&margin-h=5)
-</div>
 
 ![Codewars](https://www.codewars.com/users/Dan7h3x/badges/large)
 
